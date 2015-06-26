@@ -1,0 +1,3 @@
+#ngix repos
+deb http://nginx.org/packages/ubuntu/ trusty nginx
+deb-src http://nginx.org/packages/ubuntu trusty nginx
